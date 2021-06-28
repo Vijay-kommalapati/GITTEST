@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is part of master
+=======
+alternate modification 1
+>>>>>>> alternate
