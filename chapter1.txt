@@ -1,3 +1,10 @@
 <<<<<<< HEAD
 this is part of master
+<<<<<<< Updated upstream
 =======
+=======
+======
+this line is added in newBranch1
+
+testing the stash feature
+>>>>>>> Stashed changes
